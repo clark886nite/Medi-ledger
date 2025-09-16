@@ -21,3 +21,13 @@ Project Structure
 -tests
 -medi-ledger test.ts 
 -Example test cases
+
+
+---
+
+Deployment
+1. Install [Clarinet](https://github.com/hirosystems/clarinet).  
+2. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/medi-ledger.git
+   cd medi-ledger
